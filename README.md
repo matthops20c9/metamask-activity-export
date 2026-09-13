@@ -36,3 +36,5 @@ Options:
 * `--output, -o`: Path to save the output file (optional for terminal format).
 * `--format, -f`: Output format (`csv`, `json`, or `terminal`). Defaults to `csv`.
 * `--network`: Filter transactions by chain ID (e.g., `1` for Ethereum, `137` for Polygon).
+
+<!-- last-checked: 2026-09-13 -->
